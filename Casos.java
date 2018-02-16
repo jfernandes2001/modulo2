@@ -1,4 +1,4 @@
-package Casos;
+package Calculadora;
 import java.util.Scanner;
 public class Calculadora {
 
