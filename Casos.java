@@ -1,6 +1,6 @@
 package Casos;
 import java.util.Scanner;
-public class Casos {
+public class Calculadora {
 
 	public static void main(String[] args) {
 
